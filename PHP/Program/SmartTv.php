@@ -6,7 +6,7 @@ class SmartTv extends Tv
     private string $SistemOperasi;
     private string $Internet;
     private string $Aplikasi;
-    public array $Produk = [];
+    private array $Produk = [];
 
     //constructor
     public function __construct(int $id_produk = 0, string $merk = "", int $harga = 0, int $stok = 0, int $UkuranLayar = 0, string $resolusi = "", string $TipeLayar = "", string $SistemOperasi = "", string $Internet = "", string $Aplikasi = "",string $gambar = "")
