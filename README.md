@@ -49,7 +49,8 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
   Untuk menampilkan seluruh data 
 ---
 ##  DIAGRAM
-<img width="729" height="616" alt="image" src="https://github.com/user-attachments/assets/a8dfcaa7-e89d-4ed6-8691-3326151aed36" />
+<img width="796" height="602" alt="image" src="https://github.com/user-attachments/assets/97f5ced3-93a0-4415-bec0-26dfcf9515e4" />
+
 
 
 ---
