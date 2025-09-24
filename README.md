@@ -37,8 +37,8 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
      Untuk menandakan apakah sudah memiliki aplikasi bawaan
    - Internet
      untuk menandakan apakaha bisa terkoneksi internet
-     
-  ### Methods
+
+ ### Methods
   - Getter & setter
     Untuk mengambil dan mengubah nilai atribut
   - AddData()
