@@ -7,7 +7,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
 ---
 
 # FLOW KODE
-**Class Produk**
+### Class Produk
 - Mempunyai atribut seperti : 
   - Id_Porduk
     Untuk identitas unik
@@ -20,7 +20,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
   - Gambar(hanya di php)
     gambar produk
     
-**Class Tv**
+### Class Tv
 - Mempunyai atribut seperti :
   - UkuranLayar
     Menyimpan ukuran layar (32 inch, 42 inch, 55 inch)
@@ -29,7 +29,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
   - TipeLayar
     Untuk jenis layar (LED, QLED, OLED, PLASMA)
     
-**Class SmartTv**
+### Class SmartTv
 - Mempunyai atribut seperti :
    - SistemOperasi
      SistemOperasi yang dipunyai SmartTv (AndroidTv, Tizen, WebOS)
