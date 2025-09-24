@@ -19,6 +19,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
     jumlah stok produk
   - Gambar(hanya di php)
     gambar produk
+    
 **Class Tv**
 - Mempunyai atribut seperti :
   - UkuranLayar
@@ -27,6 +28,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
     Untuk resoulusi gambar (HD, FULL HD, 4K, 8K)
   - TipeLayar
     Untuk jenis layar (LED, QLED, OLED, PLASMA)
+    
 **Class SmartTv**
 - Mempunyai atribut seperti :
    - SistemOperasi
