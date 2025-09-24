@@ -44,7 +44,8 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
     Untuk menampilkan seluruh data produk SmartTv
 ---
 ##  DIAGRAM
-<img width="299" height="587" alt="image" src="https://github.com/user-attachments/assets/9a5566ce-cdeb-46b1-af4f-b026b632adf1" />
+<img width="729" height="616" alt="image" src="https://github.com/user-attachments/assets/a8dfcaa7-e89d-4ed6-8691-3326151aed36" />
+
 
 ---
 ##  DESAIN PROGRAM
