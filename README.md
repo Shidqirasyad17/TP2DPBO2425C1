@@ -39,12 +39,14 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
      untuk menandakan apakaha bisa terkoneksi internet
 
  ### Methods
-  - Getter & setter ( di semua class)
-    Untuk mengambil dan mengubah nilai atribut
-  - AddData() --> berada di class SmartTv 
-    Untuk menambahkan data produk SmarTv
-  - ShowData() --> berada di class SmartTv
-    Untuk menampilkan seluruh data produk SmartTv
+- Getter & setter (di semua class)  
+  Untuk mengambil dan mengubah nilai atribut  
+
+- AddData() --> berada di class SmartTv  
+  Untuk menambahkan data produk SmartTv  
+
+- ShowData() --> berada di class SmartTv  
+  Untuk menampilkan seluruh data produk SmartTv  
 ---
 ##  DIAGRAM
 <img width="729" height="616" alt="image" src="https://github.com/user-attachments/assets/a8dfcaa7-e89d-4ed6-8691-3326151aed36" />
