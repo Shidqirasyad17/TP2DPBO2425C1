@@ -23,16 +23,16 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
 ### Class Tv
 - Mempunyai atribut seperti :
   - UkuranLayar
-    Menyimpan ukuran layar (32 inch, 42 inch, 55 inch)
+    Menyimpan ukuran layar
   - Resoulusi
-    Untuk resoulusi gambar (HD, FULL HD, 4K, 8K)
+    Untuk resoulusi gambar 
   - TipeLayar
-    Untuk jenis layar (LED, QLED, OLED, PLASMA)
+    Untuk jenis layar 
     
 ### Class SmartTv
 - Mempunyai atribut seperti :
    - SistemOperasi
-     SistemOperasi yang dipunyai SmartTv (AndroidTv, Tizen, WebOS)
+     SistemOperasi yang dipunyai SmartTv 
    - Aplikasi
      Untuk menandakan apakah sudah memiliki aplikasi bawaan
    - Internet
