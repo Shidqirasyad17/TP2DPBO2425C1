@@ -1,38 +1,51 @@
 
 
-# Janji
+# JANJI
 Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kuliah DPBO untuk keberkahannya saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
 
----
-
-# TUJUAN PROGRAM
-Program ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop**, menggunakan beberapa bahasa pemrograman: **C++, Python, PHP, dan Java**.
 
 ---
 
 # FLOW KODE
-**Class Laptop**
-- Menyimpan Data Laptop seperti : 
-  - Id_Laptop
+**Class Produk**
+- Mempunyai atribut seperti : 
+  - Id_Porduk
+    Untuk identitas unik
   - Merk
+    Menyimpan brand produk.
   - Harga
+    Menyimpan harga jual produk.
   - Stok
+    jumlah stok produk
   - Gambar(hanya di php)
-  - Menyediakan getter dan setter
-  **Class ManageLaptop**
-- Menyediakan metode untuk crud, seperti:
-  - AddData -> membuat data laptop baru -> menyimpan ke list/vector/arrayList/session
-  - ShowData -> Mengecek data kosong atau tidak -> menampilkan semua data
-  - UpdateData -> mencari berdasarkan id -> mengubah data yang ditemukan
-  - DeleteData -> mencari berdasarkan id -> menghapus data yang ditemukan
-  - SearchData -> Mencari berdasarkan merk -> menampilkan data
+    gambar produk
+**Class Tv**
+- Mempunyai atribut seperti :
+  - UkuranLayar
+    Menyimpan ukuran layar (32 inch, 42 inch, 55 inch)
+  - Resoulusi
+    Untuk resoulusi gambar (HD, FULL HD, 4K, 8K)
+  - TipeLayar
+    Untuk jenis layar (LED, QLED, OLED, PLASMA)
+**Class SmartTv**
+- Mempunyai atribut seperti :
+   - SistemOperasi
+     SistemOperasi yang dipunyai SmartTv (AndroidTv, Tizen, WebOS)
+   - Aplikasi
+     Untuk menandakan apakah sudah memiliki aplikasi bawaan
+   - Internet
+     untuk menandakan apakaha bisa terkoneksi internet
+  **Methods**
+  - Getter & setter
+    Untuk mengambil dan mengubah nilai atribut
+  - AddData()
+    Untuk menambahkan data produk SmarTv
+  - ShowData()
+    Untuk menampilkan seluruh data produk SmartTv
 ---
-##  FITUR UTAMA
-- **TAMBAH LAPTOP**  
-- **TAMPILKAN LAPTOP**  
-- **UPDATE LAPTOP**  
-- **HAPUS LAPTOP**  
-- **CARI LAPTOP**  
+##  DIAGRAM
+<img width="299" height="587" alt="image" src="https://github.com/user-attachments/assets/9a5566ce-cdeb-46b1-af4f-b026b632adf1" />
+
 ---
 ##  DESAIN PROGRAM
 
