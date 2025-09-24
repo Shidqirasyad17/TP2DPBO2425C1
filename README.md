@@ -41,9 +41,9 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
  ### Methods
   - Getter & setter ( di semua class)
     Untuk mengambil dan mengubah nilai atribut
-  - AddData() (diclass SmartTv)
+  - AddData() --> berada di class SmartTv 
     Untuk menambahkan data produk SmarTv
-  - ShowData() (diclass SmartTv)
+  - ShowData() --> berada di class SmartTv
     Untuk menampilkan seluruh data produk SmartTv
 ---
 ##  DIAGRAM
