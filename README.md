@@ -18,16 +18,15 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
   - Stok
     jumlah stok produk
   - Gambar(hanya di php)
-    gambar produk
     
 ### Class Tv
 - Mempunyai atribut seperti :
   - UkuranLayar
-    Menyimpan ukuran layar
+    Menyimpan ukuran layar 
   - Resoulusi
     Untuk resoulusi gambar 
   - TipeLayar
-    Untuk jenis layar 
+    Untuk jenis layar seperti LED, QLED, OLED, Dll.
     
 ### Class SmartTv
 - Mempunyai atribut seperti :
