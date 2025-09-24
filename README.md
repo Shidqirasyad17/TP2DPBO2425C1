@@ -43,10 +43,10 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kulia
   Untuk mengambil dan mengubah nilai atribut  
 
 - AddData() --> berada di class SmartTv  
-  Untuk menambahkan data produk SmartTv  
+  Untuk menambahkan data 
 
 - ShowData() --> berada di class SmartTv  
-  Untuk menampilkan seluruh data produk SmartTv  
+  Untuk menampilkan seluruh data 
 ---
 ##  DIAGRAM
 <img width="729" height="616" alt="image" src="https://github.com/user-attachments/assets/a8dfcaa7-e89d-4ed6-8691-3326151aed36" />
